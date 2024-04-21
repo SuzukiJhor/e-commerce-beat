@@ -1,7 +1,11 @@
+import HeroSlider from "../components/sliders/HeroSlider";
+
 const Home = () => {
   return (
     <main>
-      <section></section>
+      <section id="hero">
+        <HeroSlider />
+      </section>
 
       <section></section>
 

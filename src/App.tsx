@@ -1,7 +1,9 @@
+import Home from "./pages/Home";
+
 function App() {
   return (
     <>
-      <h1>Ola eu sou o Goku</h1>
+      <Home />
     </>
   );
 }
